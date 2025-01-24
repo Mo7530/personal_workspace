@@ -18,4 +18,4 @@ This project is part of my journey to learn and experience **Git** and **GitHub*
 Clone this repository to your local machine and start exploring! 💻  
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Mo7530/personal_workspace.git
